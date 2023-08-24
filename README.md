@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hensalrai" alt="hensalrai" /></a> </p>
 
-- 🔭 I’m currently working on **CS Nepal**
+- 🔭 I’m currently working on **Wabu Tech**
 
 - 🌱 I’m currently learning **Microservice architecture in Go**
 
