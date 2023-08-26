@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hensal Rai</h1>
-<h3 align="center">A passionate flutter dev</h3>
+<h3 align="center">A passionate Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hensalrai&label=Profile%20views&color=0e75b6&style=flat" alt="hensalrai" /> </p>
 
