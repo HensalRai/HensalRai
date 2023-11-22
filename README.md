@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Wabu Tech**
 
-- 🌱 I’m currently learning **Microservice architecture in Go**
+- 🌱 I’m currently learning **Tensorflow**
 
 - 💬 Ask me about **Flutter, System architecture**
 
