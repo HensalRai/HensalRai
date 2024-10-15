@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Wabu Tech**
 
-- 🌱 I’m currently learning **Tensorflow**
-
 - 💬 Ask me about **Flutter, System architecture**
 
 - 📫 How to reach me **hensalrai@gmail.com**
